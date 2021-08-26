@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @shekharkumargupta
-- 👀 I’m interested in 
+- 👋 Hi, I’m @shekha kumar gupta
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 Reach me shekharkumargupta2511@gmail.com
